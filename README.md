@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-Hi! I'm Sebastian! welcome to this profile, is small and young. But it will grow, keep watching it! 
+Hi! I'm Sebastian! welcome to this profile, it's small and young. But it will grow, keep watching it! 
 
 - 🔭 I’m currently working on ... How to become a great programer
 - 🌱 I’m currently learning ... at Holberton
