@@ -13,7 +13,7 @@ After a long time looking for what I love doing the most, I found technology and
     <img src="https://img.shields.io/badge/JavaScript-green?&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/C_lenguage-black?&logo=C&logoColor=white">
 </div>
-
+<br>
 
 <details>
     <summary>🚴🏻‍♂️<b>GitHub Stats</b></summary>
