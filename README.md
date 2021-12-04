@@ -1,11 +1,16 @@
-# Hi there 👋 I'm Sebastian!
+# Hello people!! 👋 I'm Sebastian!
 
-I consider myself a curious and creative software developer. Currently in my path to become a full-stack software developer from Colombia to the world!
+I'm curious and creative software developer (ey that's cliche! ... but well it's true)
+Currently in my path to become a full-stack software developer from Colombia to the world!
 
-After a long time looking for what I love doing the most, I found technology and coding to be fun, challenging and with the power to change the world for the better. So here I am doing my best learning how to solve problems for tons of people around the world :)
+After a long time looking for what I love doing the most, I found technology and coding to be fun, challenging and with the power to change the world for the better. So there was no second thought, let's change the world for the better.
 
+
+<details>
+    
+<summary>
 ## 👨‍🍳 Skills
-
+    </summary>
 <div>
     <img src="https://img.shields.io/badge/Python-%233a75a5.svg?logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/HTML-yellow?&logo=HTML5&logoColor=white">
@@ -14,6 +19,8 @@ After a long time looking for what I love doing the most, I found technology and
     <img src="https://img.shields.io/badge/C_lenguage-black?&logo=C&logoColor=white">
 </div>
 <br>
+</details>
+
 
 ### 🚴🏻‍♂️GitHub Stats
 
