@@ -6,7 +6,12 @@ Currently in my path to become a full-stack software developer from Colombia to 
 After a long time looking for what I love doing the most, I found technology and coding to be fun, challenging and with the power to change the world for the better. So there was no second thought, let's change the world for the better.
 
 
-## 👨‍🍳 Skills
+
+<details>
+    
+<summary>
+    👨‍ <b>Skills</b>
+    </summary>
 <div>
     <img src="https://img.shields.io/badge/Python-%233a75a5.svg?logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/HTML-yellow?&logo=HTML5&logoColor=white">
@@ -14,6 +19,8 @@ After a long time looking for what I love doing the most, I found technology and
     <img src="https://img.shields.io/badge/JavaScript-green?&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/C_lenguage-black?&logo=C&logoColor=white">
 </div>
+    
+</details>
 <br>
 
 <details>
