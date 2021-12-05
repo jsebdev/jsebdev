@@ -1,6 +1,7 @@
 # Hello people!! 👋 I'm Sebastian!
 
-I'm a curious and creative software developer (ey that's cliche! ... but well it's true)
+I'm a curious and creative software developer (ey that's cliche! ... but well it's true).
+
 Currently in my path to become a full-stack software developer from Colombia to the world!
 
 After a long time looking for what I love doing the most, I found technology and coding to be fun, challenging and with the power to change the world for the better. So there was no second thought, let's change the world for the better.
