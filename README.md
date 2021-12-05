@@ -13,11 +13,15 @@ After a long time looking for what I love doing the most, I found technology and
 </summary>
 <div>
     <img src="https://img.shields.io/badge/Python-%233a75a5.svg?logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML-yellow?&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-blue?&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-yellow?&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-blue?&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-green?&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/C_lenguage-black?&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/typescript%20-%233178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/typescript%20-%233178c6.svg?&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/bootstrap-7652b3?&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479a1?&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/C%20Sharp-239120?&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/.NET-512bd4?&logo=.net&logoColor=white">
 </div>
 </details>
 
