@@ -15,7 +15,7 @@ After a long time looking for what I love doing the most, I found technology and
 
 <details>
 <summary>
-👨‍ <b>Skills</b>
+🤹🏻 <b>Skills</b>
 </summary>
 <div>
     <img src="https://img.shields.io/badge/Python-%233a75a5.svg?logo=python&logoColor=white">
