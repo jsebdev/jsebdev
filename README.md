@@ -7,7 +7,7 @@ Currently in my path to become a full-stack software developer from Colombia to 
 After a long time looking for what I love doing the most, I found technology and coding to be fun, challenging and with the power to change the world for the better. So there was no second thought, let's change the world for the better.
 
 ### Facts about me
-- I love both front-end and back-end, but I love seeing what when I design so that's a big plus for front-end 💻
+- I love both front-end and back-end, but I love seeing what I do when I design so that's a big plus for front-end 💻
 - Javascript is sometimes weird, but it's like... ugh! why do I want to code with you so much Javascript? ❤️
 - I really like solving complex math problems, that's why machine learning is one of my "must learn" for the future 🤖
 - Working with clients is one of my strengths, I like to hear what people want to say 👔
