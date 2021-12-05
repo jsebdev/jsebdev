@@ -16,7 +16,7 @@ After a long time looking for what I love doing the most, I found technology and
     <img src="https://img.shields.io/badge/HTML5-yellow?&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-blue?&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-green?&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/C_lenguage-black?&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/C-black?&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/typescript%20-%233178c6.svg?&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/bootstrap-7652b3?&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479a1?&logo=mysql&logoColor=white">
