@@ -37,8 +37,8 @@ After a long time looking for what I love doing the most, I found technology and
 🚴 <b>GitHub Stats</b>
 </summary>
 <div style="display:flex; flex-direction:row;">
-<img src="https://github-readme-stats.vercel.app/api?username=Sebas93cay&show_icons=true&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas93cay&layout=compact&theme=dark">    
+<img src="https://github-readme-stats.vercel.app/api?username=jsebdev&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsebdev&layout=compact&theme=dark">    
 </div>
 </details>
 
