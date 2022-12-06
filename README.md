@@ -18,7 +18,14 @@ After a long time looking for what I love doing the most, I found technology and
 🤹🏻 <b>Skills</b>
 </summary>
 <div>
+    <img src="https://img.shields.io/badge/React-51BAFB?&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.Js-000000?&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/GraphQL-e10098?&logo=GraphQL&logoColor=white">
     <img src="https://img.shields.io/badge/Python-%233a75a5.svg?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Apollo%20GraphQL-311c87?&logo=Apollo%20GraphQL&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-2496ED?&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-764ABC?&logo=Redux&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-yellow?&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-blue?&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-green?&logo=JavaScript&logoColor=white">
@@ -26,6 +33,7 @@ After a long time looking for what I love doing the most, I found technology and
     <img src="https://img.shields.io/badge/typescript%20-%233178c6.svg?&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/bootstrap-7652b3?&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479a1?&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47a248?&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/C%20Sharp-239120?&logo=csharp&logoColor=white">
     <img src="https://img.shields.io/badge/.NET-512bd4?&logo=.net&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white">
