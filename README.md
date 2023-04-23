@@ -1,4 +1,4 @@
-# Hello people!! 👋 I'm Sebastian!
+# Hello! 👋 I'm Sebastian! A machine learning developer to the world!
 
 Hi! I'm Sebastian Caicedo, a curious and ever-learning ML developer from Colombia. 👋
 
